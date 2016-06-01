@@ -1,6 +1,6 @@
 Title: Interview Questions
 Date: 2016-5-25 17:27
-Modified: 2016-5-25 17:27
+Modified: 2016-5-31 18:46
 Tags: career,
 Slug: interview-questions
 Summary: Interview questions I've been asked for software positions.
@@ -28,6 +28,7 @@ Here's a list of questions I've gotten in applying for software engineering jobs
 * Implement a doubly-linked list. Insert an element, and delete an element. Is it thread safe?
 * Implement a function to return the nth number of the fibonacci sequence
 * Implement a spell checker in C.
+* Implement a class "BigInt" for working with integers of arbitrary precision, as well as some functions supporting basic mathematical operations (add, subtract, etc).
 * Implement strcpy
 * Implement memcpy
 * Implement read, write, ioctl for a GPS device driver in linux
