@@ -2,6 +2,7 @@ Title: Lower Tuscohatchie Lake (Pratt Lake Trail)
 Date: 2016-6-7 12:20
 Tags: hiking, camping, trip reports
 Slug: pratt-lake-trail
+header_cover: images/pratt_lake_5.jpg
 
 Peggy and I ventured out Sunday for an overnight up in the Alpine Lakes Wilderness. I'd heard that Pratt Lake is a heavily used trail, and it's tough to find solitude. The parking lot was full and overflowing by the time we pulled up around noon on Sunday, but we managed to find a spot right by the trailhead in the lot.
 
