@@ -12,6 +12,9 @@ OUTPUT_RETENTION = ('.git',)
 GOOGLE_ANALYTICS = 'UA-58834179-1'
 
 PATH = 'content'
+STATIC_PATHS = ['content/images']
+PAGE_EXCLUDES = ['images']
+ARTICLE_EXCLUDES = ['images']
 
 THEME = '/Users/bdunlay/Projects/blog/pelican-themes/clean-blog'
 
