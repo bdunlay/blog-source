@@ -19,6 +19,7 @@ Here's a list of questions I've gotten in applying for software engineering jobs
 * Find an element in a sorted array.
 * Fix some (contrived) bugs in the current codebase.
 * Give a presentation on a specified topic to 15 people
+* Given an array and a range, count the errors in the array. Errors are defined as follows: a value is missing, duplicated, or out of range. After finding a solution, there is a design change: Return a list of all the errors instead of the count.
 * Given a graph, in which vecticies are frogs, and edges are parent/child relationships, determine if two frogs have a common ancestor.
 * Given an array of integers, find an index (if it exists) in which the sum of all integers on the left of the index and the sum of all integers on the right of the index are equal.
 * How do virtual functions work?
@@ -53,5 +54,4 @@ Here's a list of questions I've gotten in applying for software engineering jobs
 * What is the difference between a reference variable and a pointer?
 * Why do we have virtual functions?
 * Write a function to print out all permutations of a string.
-
 
