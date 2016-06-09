@@ -9,7 +9,11 @@ Summary: Interview questions I've been asked for software positions.
 
 This is a list of all of the technical interview questions I've ever been asked when applying for software engineering roles. They are grouped together by company, and they are in the order in which they were asked. This begins with questions I was asked while still in college through present day.
 
+### Company 0 (No Offer)
+
 * Write a function to print out all permutations of a string.
+
+### Company 1 (Offer)
 
 * Calculate the degree between the angle of the hands on a clock given the time.
 * I pulled this code from the standard library. What does it do? (strtok)
@@ -17,7 +21,11 @@ This is a list of all of the technical interview questions I've ever been asked 
 * Find an element in a sorted array.
 * Print out a tree in level-order, one line per level.
 
+### Company 2 (Offer)
+
 * Implement a spell checker in C.
+
+### Company 3 (No Offer)
 
 * Implement memcpy
 * Set a bit, clear a bit
@@ -26,7 +34,11 @@ This is a list of all of the technical interview questions I've ever been asked 
 * Design a protocol over UART. How would you send binary data over this (text based) protocol? Implement base64 encoding.
 * Given an array of integers, find an index (if it exists) in which the sum of all integers on the left of the index and the sum of all integers on the right of the index are equal.
 
+### Company 4 (Offer)
+
 * Fix some (contrived) bugs in the current codebase.
+
+### Company 5 (...)
 
 * Implement strcpy
 * Give a presentation on a specified topic to 15 people
@@ -40,6 +52,8 @@ This is a list of all of the technical interview questions I've ever been asked 
 * What is /dev and /etc ?
 * Bash questions about how to find file names, how to find contents of files
 * How would you store 1.5 in a 16 bit system with no floating point unit?
+
+### Company 6 (No Offer)
 
 * A fellow engineer has asked you to review some code. Identify any possible errors, if they exist (10 question multiple choice).
 * Can you apply const modifier to a function?
@@ -58,7 +72,11 @@ This is a list of all of the technical interview questions I've ever been asked 
 * What is the difference between a reference variable and a pointer?
 * Why do we have virtual functions?
 
+### Company 7 (No Offer)
+
 * Given a graph, in which vecticies are frogs, and edges are parent/child relationships, determine if two frogs have a common ancestor.
 * Implement a class "BigInt" for working with integers of arbitrary precision, as well as some functions supporting basic mathematical operations (add, subtract, etc).
+
+### Company 8 (...)
 
 * Given an array and a range, count the errors in the array. Errors are defined as follows: a value is missing, duplicated, or out of range. After finding a solution, there is a design change: Return a list of all the errors instead of the count.
