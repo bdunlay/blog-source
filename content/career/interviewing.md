@@ -3,6 +3,7 @@ Date: 2016-5-27 14:31
 Tags: career,
 Slug: interviewing
 Summary: Interviewing is hard.
+Status: draft
 
 I left my startup in February, and I learned a lot while I was there. In fact it wasn't until I started interviewing that I realized how much I'd learned and improved my skillset.
 

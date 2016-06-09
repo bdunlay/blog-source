@@ -2,6 +2,7 @@ Title: Being a Developer after 40 (Video Lecture)
 Date: 2016-6-1 9:30
 Tags: programming, career development, career, advice
 Slug: developer-after-40
+Status: draft
 
 A video lecture by Adrian Kosmaczewski. Interesting perspectives from someone who has been in the business for some time.
 
