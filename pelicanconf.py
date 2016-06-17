@@ -12,7 +12,7 @@ OUTPUT_RETENTION = ('.git',)
 GOOGLE_ANALYTICS = 'UA-58834179-1'
 
 PATH = 'content'
-STATIC_PATHS = ['content/images']
+STATIC_PATHS = ['images']
 PAGE_EXCLUDES = ['images']
 ARTICLE_EXCLUDES = ['images']
 

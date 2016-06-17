@@ -4,6 +4,7 @@ Modified: 2016-6-16 22:20
 Tags: career,
 Slug: interview-questions
 Summary: Interview questions I've been asked for software positions.
+header_cover: images/interview-questions-bg.jpg
 
 ## Every Interview Question
 
