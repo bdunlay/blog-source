@@ -1,6 +1,6 @@
 Title: Interview Questions
 Date: 2016-5-25 17:27
-Modified: 2016-6-14 22:57
+Modified: 2016-6-16 22:20
 Tags: career,
 Slug: interview-questions
 Summary: Interview questions I've been asked for software positions.
@@ -38,7 +38,7 @@ This is a list of all of the technical interview questions I've ever been asked 
 
 * Fix some (contrived) bugs in the current codebase.
 
-### Company 5 (??? M.I.A.)
+### Company 5 (...)
 
 * Implement strcpy
 * Give a presentation on a specified topic to 15 people
@@ -80,4 +80,6 @@ This is a list of all of the technical interview questions I've ever been asked 
 ### Company 8 (...)
 
 * Given an array and a range, count the errors in the array. Errors are defined as follows: a value is missing, duplicated, or out of range. After finding a solution, there is a design change: Return a list of all the errors instead of the count.
-* Implement a program to parse SVG data paths from stdin, one path per line. Assume that inputs are one shape per line, each shape is a polygon, each shape is closed (implicitly or explicitly), and that no path elements will intersect. Ignore comments (prefixed with #) and whitespace.
+* Implement a program to parse SVG path data and calculate a path's distance. Read from stdin, one path per line. Assume that inputs define exactly one closed polygon per line of input, and that no path elements will intersect. Print any errors that might occur to stderr. Ignore comments (prefixed with #) and whitespace.
+* Come up with a method to calculate the estimated cut time along that path. Modify the SVG path data program to include this calculation.
+* Implement two functions as a part of the provided program, which implements a mock mobile device. The first function is an interrupt handler, being called at a rate of 100Hz and passed x,y, and z coordinates (and a timestamp). The interrupt handler should place data into a queue to be processed by the second function. The second function should process data from the queue and determine when the orientation of a device has changed. When a change in orientation is detected, a single line should be printed to stdout, displaying at what time the change occurred and the new orientation.
