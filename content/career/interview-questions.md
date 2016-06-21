@@ -1,6 +1,6 @@
 Title: Interview Questions
 Date: 2016-5-25 17:27
-Modified: 2016-6-16 22:20
+Modified: 2016-6-21 14:06
 Tags: career,
 Slug: interview-questions
 Summary: Interview questions I've been asked for software positions.
@@ -84,3 +84,9 @@ This is a list of all of the technical interview questions I've ever been asked 
 * Implement a program to parse SVG path data and calculate a path's distance. Read from stdin, one path per line. Assume that inputs define exactly one closed polygon per line of input, and that no path elements will intersect. Print any errors that might occur to stderr. Ignore comments (prefixed with #) and whitespace.
 * Come up with a method to calculate the estimated cut time along that path. Modify the SVG path data program to include this calculation.
 * Implement two functions as a part of the provided program, which implements a mock mobile device. The first function is an interrupt handler, being called at a rate of 100Hz and passed x,y, and z coordinates (and a timestamp). The interrupt handler should place data into a queue to be processed by the second function. The second function should process data from the queue and determine when the orientation of a device has changed. When a change in orientation is detected, a single line should be printed to stdout, displaying at what time the change occurred and the new orientation.
+
+### Company 9 (...)
+
+* Given two strings of binary numbers, return a resulting string that contains the binary sum of the two numbers.
+* Find the longest palindrome in a string.
+* Find the height of a binary search tree.
